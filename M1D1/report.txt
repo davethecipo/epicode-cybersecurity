@@ -1,0 +1,22 @@
+Memory:
+  System RAM: total: 32 GiB available: 31.22 GiB used: 5.52 GiB (17.7%)
+  Array-1: capacity: 32 GiB slots: 4 modules: 4 EC: None
+  Device-1: ChannelA-DIMM0 type: DDR3 size: 8 GiB speed: 1600 MT/s
+  Device-2: ChannelA-DIMM1 type: DDR3 size: 8 GiB speed: 1600 MT/s
+  Device-3: ChannelB-DIMM0 type: DDR3 size: 8 GiB speed: 1600 MT/s
+  Device-4: ChannelB-DIMM1 type: DDR3 size: 8 GiB speed: 1600 MT/s
+CPU:
+  Info: quad core model: Intel Core i5-4460 bits: 64 type: MCP cache:
+    L2: 1024 KiB
+  Speed (MHz): avg: 3380 min/max: 800/3400 cores: 1: 3375 2: 3390 3: 3384
+    4: 3372
+Drives:
+  Local Storage: total: 10.12 TiB used: 4.05 TiB (40.0%)
+  ID-1: /dev/sda vendor: Samsung model: SSD 830 Series size: 119.24 GiB
+  ID-2: /dev/sdb vendor: Samsung model: SSD 840 EVO 500GB size: 465.76 GiB
+  ID-3: /dev/sdc vendor: Seagate model: ST8000NM000A-2KE101 size: 7.28 TiB
+  ID-4: /dev/sdd vendor: Samsung model: SSD 860 QVO 1TB size: 931.51 GiB
+  ID-5: /dev/sde vendor: Western Digital model: WD10EARX-00N0YB0
+    size: 931.51 GiB
+  ID-6: /dev/sdf vendor: Western Digital model: WD5000AAKS-00YGA0
+    size: 465.76 GiB
